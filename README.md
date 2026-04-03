@@ -1,1 +1,1 @@
-# Crgames
+crazygames-script.js
